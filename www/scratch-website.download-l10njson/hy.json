@@ -1,6 +1,6 @@
 {
     "download.appTitle": "Ներբեռնել Scratch App-ը",
-    "download.appIntro": "Ցանկանու՞մ եք ստեղծել և պահել Scratch նախագիծը, առանց համացանցի առկայության: Ներբեռնել անվճար Scratch app -ը:",
+    "download.appIntro": "Ցանկանու՞մ եք ստեղծել և պահել Scratch նախագիծը, առանց համացանցի առկայության: Ներբեռնեք անվճար Scratch app -ը:",
     "download.requirements": "Պահանջներ",
     "download.imgAltDownloadIllustration": "Scratch 3.0 Desktop էկրանադիր ",
     "download.troubleshootingTitle": "ՀՏՀ",
@@ -18,6 +18,7 @@
     "download.scratch2Desktop": " Scratch 2.0 Offline Editor",
     "download.cannotAccessMacStore": "Ի՞նչ անել, եթե չունեմ հասանելիություն Mac App Store-ին:",
     "download.cannotAccessWindowsStore": "Ի՞նչ անել, եթե չունեմ հասանելիություն Microsoft Store-ին:",
+    "download.macMoveAppToApplications": "Բացեք .dmg նիշքը և տեղափոխեք Scratch 3-ը Applications թղթապանակի մեջ:",
     "download.macMoveToApplications": "Բացեք .dmg նիշքը և տեղափոխեք Scratch Desktop-ը Applications թղթապանակի մեջ:",
     "download.winMoveToApplications": "Գործարկեք .exe նիշքը:",
     "download.doIHaveToDownload": "Արդյո՞ք պետք է ներբեռնեմ ծրագիրը, որպեսզի կարողանամ օգտվել Scratch- ից:",
@@ -50,5 +51,6 @@
     "download.whyAskForLocation": "Ինչո՞ւ է {operatingsystem} -ը հարցնում իմ տեղորոշումը: ",
     "download.whyAskForLocationAnswer": "Scratch-ը օգտագործում է բլութութը այլ տեսակի սարքերի հետ միանալու համար, որոնցից են micro:bit-ը կամ LEGO BOOST-ը: Բլութութը ծրագրին տրամադրւմ է տեղորոշման տվյալները, քանզի Google-ը պահանջում է, որ ցանկացած ծրագիր, որը օգտագործում է բլութութ, պետք է ունենա թույլատվության հարցում տեղորոշման հետ կապված: Scratch-ը չի օգտագոծելու բլութութը Ձեզ հետևելու համար:",
     "download.whereProjectStored": "Scratch App-ը որտե՞ղ է պահում ին նախագծերը:",
-    "download.whereProjectStoredAnswer": "Նախագծերը պահվում են ծրագրի ներսում: Նախագծի նիշքը արտահանելու համար սեղմեք մենյուի 3 կետերի վրա և ընտրեք «Կիսվել»: Հաջորդ էկրանի վրա սեղմեք «արտահանել»:  Ընտրանքները կարող են երևալ` կախված նրանից ,  թե ինչ ծրագրեր ունեք տեղադրած սարքի վրա: Ընդհանուր ընտրանքներն են ՝  Google Drive, Նիշքեր և Էլ. փոստ: "
+    "download.whereProjectStoredAnswer": "Նախագծերը պահվում են ծրագրի ներսում: Նախագծի նիշքը արտահանելու համար սեղմեք մենյուի 3 կետերի վրա և ընտրեք «Կիսվել»: Հաջորդ էկրանի վրա սեղմեք «արտահանել»:  Ընտրանքները կարող են երևալ` կախված նրանից ,  թե ինչ ծրագրեր ունեք տեղադրած սարքի վրա: Ընդհանուր ընտրանքներն են ՝  Google Drive, Նիշքեր և Էլ. փոստ: ",
+    "download.iconAltText": "Ներբեռնել"
 }

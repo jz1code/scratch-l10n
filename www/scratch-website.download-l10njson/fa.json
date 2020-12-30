@@ -18,10 +18,11 @@
     "download.scratch2Desktop": "ویرایشگر آفلاین اسکرچ ۲،۰",
     "download.cannotAccessMacStore": "اگر نتوانم به اپ‌استور Mac دسترسی پیدا کنم چه؟",
     "download.cannotAccessWindowsStore": "اگر نتوانم به فروشگاه مایکروسافت دسترسی پیدا کنم چه؟",
+    "download.macMoveAppToApplications": "فایل dmg. را باز کنید. Scratch 3 را به داخل Application انتقال دهید.",
     "download.macMoveToApplications": "فایل .dmg را باز کنید. اسکرچ دسکتاپ را به قسمت  برنامه‌ها منتقل کنید.",
     "download.winMoveToApplications": "فایل .exe را اجرا کنید.",
     "download.doIHaveToDownload": "آیا من برای استفاده از اسکرچ، باید اپلیکیشنی را دانلود کنم؟",
-    "download.doIHaveToDownloadAnswer": "No. You can also use the Scratch project editor in most web browsers on most devices by going to scratch.mit.edu and clicking \"Create\".",
+    "download.doIHaveToDownloadAnswer": "خیر، شما می‌توانید از ویرایشگر پروژه اسکرچ روی هر نوع مرورگر و با هر دستگاهی استفاده کنید. به آدرس scratch.mit.edu بروید و روی \"بسازید\"، کلیک کنید.",
     "download.canIUseScratchLink": "آیا می‌توانم از قابلیت «اسکرچ لینک» برای اتصال به افزونه‌ها استفاده کنم؟",
     "download.canIUseScratchLinkAnswer": "بله. البته برای استفاده از «اسکرچ لینک» باید به اینترنت متصل باشید.",
     "download.canIUseExtensions": "آیا من می تونم به سخت‌افزاری جانبی متصل بشم؟",
@@ -40,7 +41,7 @@
     "download.canIShare": "آیا می‌شود پروژه‌های اسکرچ دسکتاپ را با دیگران به اشتراک بگذارم؟",
     "download.canIShareAnswer": "در حال حاضر این امکان پشتیبانی نمی‌شود. البته می‌توانید پروژه‌تان را در اسکرچ دسکتاپ ذخیره کنید و سپس آن را در حساب کاربری Scratchتان آپلود نمایید و از آنجا آن را به اشتراک بگذارید. در نسخه‌های آینده ما قابلیت آپلود به حساب کاربری Scratch را به صورت مستقیم اضافه خواهیم کرد.",
     "download.canIShareApp": "آیا من می‌تونم از طریق برنامه اسکرچ چیزی را {operatingsystem} در انجمن آنلاین منتشر کنم؟",
-    "download.canIShareAnswerPlayStore": "Yes. Click the 3-dots menu on a project in the lobby and select \"Share\" from the options. In addition to sharing by email, you can sign in to your Scratch account and share a project to the Scratch online community.",
+    "download.canIShareAnswerPlayStore": "بله. روی منوی 3 نقطه‌ای در صفحه اصلی (لابی) یکی از پروژه ها کلیک کنید و گزینه «اشتراک‌گذاری» را انتخاب کنید. علاوه بر اشتراک‌گذاری از طریق ایمیل، می‌توانید وارد حساب کاربری اسکرچ خود شوید و پروژه را در انجمن آنلاین اسکرچ به اشتراک بگذارید.",
     "download.canIShareAnswerDownloaded": "امکان به اشتراک گذاری مستقیم در جامعه آنلاین از طریق نرم افزار اسکرچ {operatingsystem} میسر نمی‌باشد. فعلا می‌توانید پروژه اسکرچ را در نرم افزار ذخیره کنید و سپس در سایت اسکرچ وارد شود و آن را آپلود کنید و سپس از آنجا پروژه را اشتراک بگذارید.",
     "download.whyNoDevicesVisible": "چرا اسکرچ هیچ دستگاهی را وقتی که می‌خواهم به سخت افزارهای جانبی وصل شوم را نمایش نمی‌دهد؟",
     "download.whyNoDevicesVisibleAnswer": "تجربه ما نشان می‌دهد که معمولا با خاموش و روشن کردن بلوتوث در {devicePosessive}، شما امکان دیدن دوباره دستگاه‌های سخت افزاری را خواهید داشت. اگر مشکل مرتفع نشد، فعال بودن سرویس موقعیت مکانی را در دستگاهتان بررسی کنید. چنانچه بازهم نتوانستید هیچ دستگاهی را ببینید لطفا {whyNoDevicesContactUsLink}.",
@@ -50,5 +51,6 @@
     "download.whyAskForLocation": "چرا  {operatingsystem} می‌خواهد موقعیت مکانی من را بداند؟",
     "download.whyAskForLocationAnswer": "اسکرچ برای اتصال به سایر دستگاه‌ها مانند micro:bit و یا LEGO BOOST از بلوتوث استفاده می‌‌کند. بلوثوت به نرم افزارها اجازه استفاده از موقعیت مکانی را می‌دهد و بنابراین گوگل برای هر برنامه‌ای که بخواهد از بلوتوث استفاده کند، اجازه دسترسی به موقعیت مکانی را خواهد پرسید. بدهی است که اسکرچ از بلوتوث برای یافتن موقعیت مکانی شما استفاده نخواهد کرد.",
     "download.whereProjectStored": "برنامه اسکرچ پروژه‌های من رو کجا ذخیره می‌کنه؟",
-    "download.whereProjectStoredAnswer": "پروژه‌ها در داخل خود نرم افزار ذخیره می‌شوند. برای گرفتن فایل خروجی یک پروژه، بر روی منویی با 3-نقطه کلیک کنید و گزینه \"share\" (به اشتراک گذاری) را بزنید. در صفحه بعدی گزینه \"export\" (ذخیره کردن در فایل) را انتخاب کنید. گزینه‌های موجود بستگی به نرم افزارهایی که بر روی دستگاهتان نصب کرده‌اید دارد. گزینه‌هایی مانند Google Drive، Files  و ایمیل معمولا وجود دارند."
+    "download.whereProjectStoredAnswer": "پروژه‌ها در داخل خود نرم افزار ذخیره می‌شوند. برای گرفتن فایل خروجی یک پروژه، بر روی منویی با 3-نقطه کلیک کنید و گزینه \"share\" (به اشتراک گذاری) را بزنید. در صفحه بعدی گزینه \"export\" (ذخیره کردن در فایل) را انتخاب کنید. گزینه‌های موجود بستگی به نرم افزارهایی که بر روی دستگاهتان نصب کرده‌اید دارد. گزینه‌هایی مانند Google Drive، Files  و ایمیل معمولا وجود دارند.",
+    "download.iconAltText": "دانلود"
 }

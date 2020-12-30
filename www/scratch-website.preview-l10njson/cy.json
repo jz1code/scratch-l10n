@@ -45,5 +45,9 @@
     "project.cloudVariables": "Newidynnau'r Cwmwl",
     "project.cloudDataLink": "Gw. Data",
     "project.usernameBlockAlert": "Mae'r project yn gallu canfod pwy sy'n ei ddefnyddio, drwy'r bloc \"enw defnyddiwr\". I guddio pwy ydych chi, allgofnodwch cyn defnyddio'r project.",
-    "project.inappropriateUpdate": "Hmm,,, mae'r canfyddwr geiriau drwg yn meddwl fod yna broblem gyda'ch testun. Newidiwch hwn a chofiwch fod yn barchus."
+    "project.inappropriateUpdate": "Hmm,,, mae'r canfyddwr geiriau drwg yn meddwl fod yna broblem gyda'ch testun. Newidiwch hwn a chofiwch fod yn barchus.",
+    "comment.type.disrespectful": "Mae Scratch yn meddwl fod eich sylw diwethaf yn amharchus.",
+    "comment.disrespectful.header": "Gwnewch yn siŵr eich bod yn gyfeillgar a pharchus wrth ddefnyddio Scratch.",
+    "comment.disrespectful.content1": "Mae hidl sylwadau Scratch yn credu bod eich sylw'n amharchus.",
+    "comment.disrespectful.content2": "Cofiwch: Mae yna berson y tu ôl i bob cyfrif Scratch a gall sylwadau anghyfeillgar wir frifo teimladau rhywun."
 }

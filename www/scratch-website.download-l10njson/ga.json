@@ -18,6 +18,7 @@
     "download.scratch2Desktop": "Eagarthóir Scratch 2.0 As Líne",
     "download.cannotAccessMacStore": "Agus mura bhfuilim in ann teacht ar an Mac App Store?",
     "download.cannotAccessWindowsStore": "Agus mura bhfuilim in ann teacht ar Siopa Microsoft?",
+    "download.macMoveAppToApplications": "Open the .dmg file. Move Scratch 3 into Applications.",
     "download.macMoveToApplications": "Oscail an comhad .dmg. Tarraing Scratch go dtí an fillteán Applications.",
     "download.winMoveToApplications": "Rith an comhad .exe.",
     "download.doIHaveToDownload": "An gcaithfidh mé aip a íoslódáil chun Scratch a úsáid?",
@@ -50,5 +51,6 @@
     "download.whyAskForLocation": "Cén fáth a dteastaíonn mo shuíomh ó {operatingsystem}?",
     "download.whyAskForLocationAnswer": "Úsáideann Scratch Bluetooth chun ceangal a bhunú le gléasanna eile ar nós micro:bit nó LEGO BOOST. Ach is féidir Bluetooth a úsáid chun sonraí geoshuímh a sholáthar don aip, agus dá bharr sin, ní mór d'aon aip a úsáideann Bluetooth cead a fháil ón úsáideoir i dtús báire. Ní úsáidfidh Scratch sonraí ó Bluetooth chun do shuíomh a lorg riamh.",
     "download.whereProjectStored": "Cén áit a sábhálann Aip Scratch mo chuid tionscadal?",
-    "download.whereProjectStoredAnswer": "Sábháiltear tionscadail laistigh den aip féin. Cliceáil na 3 phonc agus roghnaigh \"Comhroinn\" chun tionscadal a easpórtáil. Ar an chéad scáileán eile, roghnaigh \"easpórtáil\". Braitheann na roghanna a fheicfidh tú ar na haipeanna atá ar do ghléas. I measc na roghanna is coitianta ná Google Drive, Files, agus ríomhphost."
+    "download.whereProjectStoredAnswer": "Sábháiltear tionscadail laistigh den aip féin. Cliceáil na 3 phonc agus roghnaigh \"Comhroinn\" chun tionscadal a easpórtáil. Ar an chéad scáileán eile, roghnaigh \"easpórtáil\". Braitheann na roghanna a fheicfidh tú ar na haipeanna atá ar do ghléas. I measc na roghanna is coitianta ná Google Drive, Files, agus ríomhphost.",
+    "download.iconAltText": "Íoslódáil"
 }

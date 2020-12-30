@@ -13,7 +13,7 @@
     "messages.becomeManagerText": "{username} wurde Manager von {studio}",
     "messages.favoriteText": "{profileLink} favorisierte {projectLink}",
     "messages.followProfileText": "{profileLink} interessiert sich nun für {followeeLink}",
-    "messages.followStudioText": "{profileLink} is now following {studioLink}",
+    "messages.followStudioText": "{profileLink} interessiert sich nun für {studioLink}",
     "messages.loveText": "{profileLink} mag {projectLink}",
     "messages.remixText": "{profileLink} hat {remixedProjectLink} als {projectLink} geremixt.",
     "messages.shareText": "{profileLink} veröffentlichte das Projekt {projectLink}",
@@ -30,15 +30,16 @@
     "teacherbanner.subgreeting": "Lehrer-Benutzerkonto",
     "teacherbanner.classesButton": "Meine Klassen",
     "teacherbanner.faqButton": "FAQ zu Lehrer-Benutzerkonto",
-    "hocbanner.title": "Werde kreativ durch programmieren!",
-    "hocbanner.moreActivities": "Siehe mehr Aktivitäten",
+    "hocbanner.title": "Werde kreativ durch Programmieren!",
+    "hocbanner.moreActivities": "Finde weitere Aktivitäten",
     "hocbanner.imagine": "Stell dir eine Welt vor",
     "hocbanner.codeACartoon": "Programmiere eine Karikatur",
     "hocbanner.talking": "Geschichten erzählen",
+    "hocbanner.makeItFly": "Lass es fliegen!",
     "welcome.welcomeToScratch": "Willkommen bei Scratch!",
     "welcome.learn": "Lerne, wie man in Scratch ein Projekt erstellt",
     "welcome.tryOut": "Probiere die Einstiegsprojekte aus",
     "welcome.connect": "Nimm mit anderen Scratchern Kontakt auf",
     "activity.seeUpdates": "Hier siehst du Aktuelles von Scratchern, die dich interessieren",
-    "activity.checkOutScratchers": "Check out some Scratchers you might like to follow"
+    "activity.checkOutScratchers": "Sieh dir diese Scratcher an, sie könnten dich interessieren"
 }
